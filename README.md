@@ -22,8 +22,7 @@ A humorous look at many common mistakes made in building robots.
 
 10. Use similar resistor values when the values are very critical.
 
-11.
-Linear regulators instead of switchmode regulators. Most robots have a
+11.Linear regulators instead of switchmode regulators. Most robots have a
 limited power budget and the wasted energy of linears can be greater
 than 50% if a 12 volt system is the only power source on your array of
 sensor, micro ect., all want current from a 5 volt source.
