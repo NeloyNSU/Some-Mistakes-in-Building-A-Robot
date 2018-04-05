@@ -41,14 +41,12 @@ sensor, micro ect., all want current from a 5 volt source.
 
 19. Leaving your tests unattended.
 
-20. Letting your work bench pile up with cr*p.
+20. Forgetting about your girlfriend in the next room for extended periods of trouble shooting.
 
-21. Forgetting about your girlfriend in the next room for extended periods of trouble shooting.
+21. Forget to connect power source grounds together.
 
-22. Forget to connect power source grounds together.
+22. Not calculate the current and burn something up!
 
-23. Not calculate the current and burn something up!
+23.Having a poorly planned robot that looks like a garbage dump …which most of the time doesnt work!
 
-24.Having a poorly planned robot that looks like a garbage dump …which most of the time doesnt work!
-
-25.Starting a project without a primary goal.
+24.Starting a project without a primary goal.
